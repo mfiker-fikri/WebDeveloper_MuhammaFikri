@@ -1,0 +1,36 @@
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {}
+
+
+#kolom1 {
+    height: 50rem;
+    background-color: #EFECCA;
+}
+
+#kolom_1 {
+    margin: 100px 10px 0px;
+    /* border: 1px solid black; */
+    padding: 1rem;
+    width: 160rem;
+}
+
+/* #shadow_card {
+    width: 60rem;
+} */
+
+
+/* kolom create */
+#kolom_create {
+    height: 60rem;
+    background-color: #EFECCA;
+}
+
+#kolom_create1 {
+    margin: 100px 20px 0px;
+    /* border: 1px solid black; */
+    padding: 4rem;
+}
+
+.button1 {
+    margin-top: 2em;
+}

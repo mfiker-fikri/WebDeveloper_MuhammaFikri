@@ -1,0 +1,80 @@
+body {
+    color: black !important;
+}
+
+
+@media (min-width: 992px) {
+
+    #p_footer {
+        margin-top: auto;
+    }
+
+    #ul_footer {
+        margin-top: auto;
+        margin-left: 10px;
+    }
+
+    #ul_top_hypers li {
+        display: inline;
+        text-transform: uppercase;
+        margin-right: 2px;
+        font-size: 15px;
+    }
+}
+
+
+
+
+
+.navbar-brand,
+.nav-link {
+    text-transform: uppercase;
+    margin-right: 10px;
+    font-size: 15px;
+    font-weight: 700;
+    padding-right: -30px;
+    padding-left: -50px;
+}
+
+#navbarTogglerDemo02 {
+    padding-right: 50px;
+}
+
+
+#header_galeri {
+    background-color: #EFECCA;
+    height: 15em;
+    box-shadow: 0 4px 2px -2px gray;
+}
+
+
+#menu_photo {
+    background-color: #F6E8B1;
+}
+
+/* #grid_foto {
+    display: grid;
+    grid-template-columns: 200px 200px;
+    grid-gap: 10px;
+} */
+
+
+.footer {
+    background-color: #EFECCA;
+    box-shadow: 0 4px 2px -2px gray;
+}
+
+#p_footer {
+    margin-top: auto;
+}
+
+#ul_footer {
+    margin-top: auto;
+    margin-right: 10px;
+}
+
+#ul_top_hypers li {
+    text-transform: uppercase;
+    margin-right: 2px;
+    font-size: 15px;
+}
