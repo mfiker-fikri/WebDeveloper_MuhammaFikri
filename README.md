@@ -69,3 +69,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 - DB_DATABASE=db_laravel_crud
 - DB_USERNAME=root
 - DB_PASSWORD=
+
+*******************
+Preview Photo Website
+*******************
+
+
